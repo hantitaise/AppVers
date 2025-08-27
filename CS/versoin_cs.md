@@ -9,3 +9,6 @@ dotnet run -- major
 
 # Ou créer un exécutable autonome
 dotnet publish -c Release -r win-x64 --self-contained true
+
+
+dotnet publish -c Release -p:PublishSingleFile=true --self-contained true -r win-x64
