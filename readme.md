@@ -1,4 +1,4 @@
-# AppVersPs
+# AppVers
 Powershell tools to simulate npm version, with simple script PS
 
 # Reason
