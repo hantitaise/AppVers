@@ -1,0 +1,7 @@
+**/tests
+*.exe
+*.dll
+**/target
+**/Cargo.lock
+**/bin
+**/obj
