@@ -1,0 +1,6 @@
+{
+  "name": "version",
+  "description": "Apps Versions",
+  "version": "1.0.0",
+  "main": "version.ps1"
+}
